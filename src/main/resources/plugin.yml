@@ -1,0 +1,26 @@
+name: EmeraldsPlugin
+version: '${version}'
+main: me.emerald.emeraldsplugin.EmeraldsPlugin
+api-version: 1.18
+authors: [ AnEmerald ]
+description: A plugin for my minecraft server!
+commands:
+  challenge:
+    description: Starts a server challenge. Admins+ only.
+    usage: /<command>
+    aliases:
+      - challenges
+
+  specialgive:
+    description: Gives special items in the server. Admins+ only.
+    usage: /<command> item
+    aliases:
+      - sg
+      - specialg
+  tospawn:
+    description: Teleports you to spawn.
+    usage: /<command>
+
+  crates:
+    description: Teleports you to the crates.
+    usage: /<command>

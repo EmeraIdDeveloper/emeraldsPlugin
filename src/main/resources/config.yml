@@ -1,0 +1,13 @@
+Challenges:
+  BlockDamage: false
+  Hunger: false
+
+BlockBreakList:
+  OBSIDIAN: 10.0
+  DIAMOND_ORE: 10.0
+  EMERALD_ORE: 10.0
+  LAPIS_ORE: 7.0
+  GOLD_ORE: 7.0
+  REDSTONE_ORE: 7.0
+  IRON_ORE: 5.0
+  COAL_ORE: 3.0
